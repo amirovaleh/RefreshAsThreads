@@ -1,8 +1,9 @@
-Tried recreating the Threads refresh animation just for fun 🤓
+Tried recreating the Threads refresh animation just for fun🤓
 
-The animation changes depending on different scroll states. 
-When the progress reaches the end, three different animations occur. 
-First, it moves backward as a small segment, then it moves forward again while filling completely in black and yellow colors.
+The animation changes on different scroll states. 
+When the progress reaches the end, four different animations occur. 
+First, scale effect, then it moves backward as a small segment, 
+then it moves forward again while filling completely in black and yellow colors.
 
 Minimum iOS Requirement: iOS 15
 
